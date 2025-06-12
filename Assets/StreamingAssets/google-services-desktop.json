@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "703762453435",
+    "firebase_url": "https://matchingpairs-2859a-default-rtdb.firebaseio.com",
+    "project_id": "matchingpairs-2859a",
+    "storage_bucket": "matchingpairs-2859a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703762453435:android:051a324758e5d49042aa9e",
+        "android_client_info": {
+          "package_name": "com.tapmatchpairs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZMK6l3qqBbSQ31L0p1qan1NQCMMmy4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
